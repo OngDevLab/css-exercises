@@ -1,0 +1,22 @@
+.odd-p {
+    background-color: #ff7f7f;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.odd-p.big-p {
+    font-size: 37px;
+}
+
+#big-blue {
+    font-size: 50px;
+    color: #2618df;
+    font-family: sans-serif;
+    
+}
+#bold-green {
+    font-size: 30px;
+    font-weight: 700;
+    color: #030403;
+    background-color: #16fd16;
+    font-family: sans-serif;
+    
+}
